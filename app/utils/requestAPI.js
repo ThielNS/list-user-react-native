@@ -1,5 +1,4 @@
 import queryString from 'query-string';
-import { AsyncStorage } from 'react-native';
 
 export const getRequest = (url, params) => {
   const queryParams = params ? queryString.stringify(params) : '';
