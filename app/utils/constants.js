@@ -1,0 +1,1 @@
+export const API_URL = 'https://private-243315-listusers3.apiary-mock.com';
